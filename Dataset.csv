@@ -1,0 +1,13 @@
+Country,Age,Salary,Purchased
+India,38,48000,0
+France,43,45000,0
+Germany,30,54000,0
+France,48,,1
+Germany,40,55000,1
+India,35,58000,1
+India,38,58000,1
+France,43,45000,0
+Germany,30,54000,0
+France,48,65000,0
+Germany,40,23000,0
+India,35,58000,1
